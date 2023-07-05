@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayMapZoom", "DisplayMapZoom\DisplayMapZoom.csproj", "{4D7F909A-3D45-48E5-9184-B09216262DDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D7F909A-3D45-48E5-9184-B09216262DDF}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{4D7F909A-3D45-48E5-9184-B09216262DDF}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{4D7F909A-3D45-48E5-9184-B09216262DDF}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{4D7F909A-3D45-48E5-9184-B09216262DDF}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{4D7F909A-3D45-48E5-9184-B09216262DDF}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{4D7F909A-3D45-48E5-9184-B09216262DDF}.Debug|iPhone.Build.0 = Debug|iPhone
+		{4D7F909A-3D45-48E5-9184-B09216262DDF}.Release|iPhone.ActiveCfg = Release|iPhone
+		{4D7F909A-3D45-48E5-9184-B09216262DDF}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCFC49CF-558B-4A00-B38F-A965F62EC14D}
+	EndGlobalSection
+EndGlobal
